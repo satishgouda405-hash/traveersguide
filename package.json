@@ -1,0 +1,8 @@
+/* Instrument Serif - display headings, logo */
+/* Inter - body text, navigation */
+/* Both loaded via Google Fonts in index.html */
+
+:root {
+  --font-display: 'Instrument Serif', Georgia, serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+}
